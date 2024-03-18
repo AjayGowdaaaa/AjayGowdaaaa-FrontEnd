@@ -1,0 +1,3 @@
+shift 1 to get a html template
+Head -> Tittle, Metadata
+Body
